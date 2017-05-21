@@ -1,0 +1,12 @@
+c:\users\raul\documents\visual studio 2015\Projects\Imagem para Mif\Imagem para Mif\bin\Debug\Imagem para Mif.exe.config
+c:\users\raul\documents\visual studio 2015\Projects\Imagem para Mif\Imagem para Mif\bin\Debug\Imagem para Mif.exe
+c:\users\raul\documents\visual studio 2015\Projects\Imagem para Mif\Imagem para Mif\bin\Debug\Imagem para Mif.pdb
+c:\users\raul\documents\visual studio 2015\Projects\Imagem para Mif\Imagem para Mif\obj\Debug\Imagem_para_Mif.Form1.resources
+c:\users\raul\documents\visual studio 2015\Projects\Imagem para Mif\Imagem para Mif\obj\Debug\Imagem_para_Mif.Properties.Resources.resources
+c:\users\raul\documents\visual studio 2015\Projects\Imagem para Mif\Imagem para Mif\obj\Debug\Imagem para Mif.csproj.GenerateResource.Cache
+c:\users\raul\documents\visual studio 2015\Projects\Imagem para Mif\Imagem para Mif\obj\Debug\Imagem para Mif.exe
+c:\users\raul\documents\visual studio 2015\Projects\Imagem para Mif\Imagem para Mif\obj\Debug\Imagem para Mif.pdb
+C:\Users\Raul\Documents\Visual Studio 2015\Projects\Imagem para Mif\Imagem para Mif\obj\Debug\Imagem para Mif.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Documents\Visual Studio 2015\Projects\Imagem para Mif\Convert-image-file-to-mif-file\Imagem para Mif\bin\Debug\Imagem para Mif.exe.config
+C:\Users\Raul\Documents\Visual Studio 2015\Projects\Imagem para Mif\Convert-image-file-to-mif-file\Imagem para Mif\obj\Debug\Imagem para Mif.exe
+C:\Users\Raul\Documents\Visual Studio 2015\Projects\Imagem para Mif\Convert-image-file-to-mif-file\Imagem para Mif\obj\Debug\Imagem para Mif.pdb
