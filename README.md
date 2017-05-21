@@ -1,1 +1,2 @@
-# Convert-image-file-to-mif-file
+# Convert image files to a single MIF (Memory Initialization File)
+
